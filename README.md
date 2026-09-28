@@ -1,12 +1,12 @@
 # Hi, I'm Sajeea 👋
 
-I'm a developer based in Kerala, India, building web applications with JavaScript and React. I enjoy creating clear, usable interfaces and learning by building projects.
+I'm a developer based in Kerala, India, building practical web applications with JavaScript and React. I enjoy turning ideas into clear, usable interfaces and learning by building projects.
 
 ### What I'm working on
 
-- Strengthening my React skills through interactive projects
+- Strengthening my React fundamentals through small, interactive projects
 - Learning Next.js and developing my full-stack skills
-- Practising components, state management, and API fetching
+- Practising component design, state management, and working with APIs
 
 ### Skills
 
@@ -14,11 +14,14 @@ I'm a developer based in Kerala, India, building web applications with JavaScrip
 **Backend and data:** Node.js, MongoDB  
 **Tools:** Git, GitHub, Figma
 
-### Projects
+### Selected projects
 
-- [React To-Do List](https://github.com/sajeeap/todo-list-using-react-vite) — a task app built with React and Vite
-- [Netflix-style React Interface](https://github.com/sajeeap/Netflix-clone-react-vite) — a React interface practice project
+- **[Gift Shop](https://github.com/sajeeap/gift_shop)** — an online gift shop built with Node.js, Express, EJS, and MongoDB.
+- **[React To-Do List](https://github.com/sajeeap/todo-list-using-react-vite)** — a small task app built with React and Vite.
+- **[Netflix-style React Interface](https://github.com/sajeeap/Netflix-clone-react-vite)** — a UI practice project built with React and Vite.
 
-### Connect with me
+I'm continuing to build and improve these projects as I learn.
+
+### Connect
 
 [LinkedIn](https://www.linkedin.com/in/sajeeap/) · [Email](mailto:psajeea@gmail.com)
